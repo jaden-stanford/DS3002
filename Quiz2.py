@@ -61,7 +61,7 @@ print('The regular market time is ' , dict2["regularMarketTime"])
 
 
 #writing output to file
-f = open('output.csv', 'w')
+f = open('TickerData.txt', 'w')
 writer = csv.writer(f)
 for key, value in dict2.items():
     writer.writerow([key,value])
