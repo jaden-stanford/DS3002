@@ -1,0 +1,9 @@
+symbol,ORCL
+regularMarketPrice,95.63
+regularMarketTime,2021-11-04 16:03:16
+symbol,ORCL
+regularMarketPrice,95.63
+regularMarketTime,2021-11-04 16:03:16
+symbol,AMZN
+regularMarketPrice,3477.0
+regularMarketTime,2021-11-04 16:00:03
